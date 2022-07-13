@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>like</key>
+		<string>1</string>
+		<key>name</key>
+		<string>彩虹</string>
+		<key>detail</key>
+		<string>周杰伦 - 我很忙</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>1</string>
+		<key>name</key>
+		<string>东风破</string>
+		<key>detail</key>
+		<string>周杰伦 - 叶惠美</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>孤勇者</string>
+		<key>detail</key>
+		<string>陈奕迅 - 孤勇者</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>海阔天空</string>
+		<key>detail</key>
+		<string>BEYOND - 乐与怒</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>花房姑娘</string>
+		<key>detail</key>
+		<string>崔健 - 新长征路上的摇滚</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>黄昏</string>
+		<key>detail</key>
+		<string>周传雄 - transfer</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>灰色轨迹</string>
+		<key>detail</key>
+		<string>BEYOND - Control</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>江南</string>
+		<key>detail</key>
+		<string>林俊杰 - 第二天堂</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>静止</string>
+		<key>detail</key>
+		<string>花儿乐队 - 幸福的旁边</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>蓝莲花</string>
+		<key>detail</key>
+		<string>许巍 - 时光,漫步</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>怒放的生命</string>
+		<key>detail</key>
+		<string>汪峰 - 怒放的生命</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>1</string>
+		<key>name</key>
+		<string>蒲公英的约定</string>
+		<key>detail</key>
+		<string>周杰伦 - 我很忙</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>1</string>
+		<key>name</key>
+		<string>情非得已</string>
+		<key>detail</key>
+		<string>庾澄庆 - 海啸</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>1</string>
+		<key>name</key>
+		<string>穷开心</string>
+		<key>detail</key>
+		<string>花儿乐队 - 花龄盛会</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>如果当时</string>
+		<key>detail</key>
+		<string>许嵩 - 自定义</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>西湖</string>
+		<key>detail</key>
+		<string>痛仰乐队 - 不要停止我的音乐</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>小星星</string>
+		<key>detail</key>
+		<string>汪苏泷 - 慢慢懂</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>夜空中最亮的星</string>
+		<key>detail</key>
+		<string>逃跑计划 - 世界</string>
+	</dict>
+	<dict>
+		<key>like</key>
+		<string>0</string>
+		<key>name</key>
+		<string>有何不可</string>
+		<key>detail</key>
+		<string>许嵩 - 自定义</string>
+	</dict>
+</array>
+</plist>
