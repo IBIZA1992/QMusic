@@ -16,6 +16,7 @@
 
 - (instancetype)initWithData:(NSArray *)metaDataArray
 {
+    NSLog(@"啦啦啦");
     self = [super init];
     if (self) {
         // 设置label位置
