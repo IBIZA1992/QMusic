@@ -10,6 +10,8 @@
 #import "QMListViewController.h"
 #import "QMLikeViewController.h"
 
+// 唔，有趣的代码
+
 @interface AppDelegate ()<UITabBarControllerDelegate, UISearchBarDelegate>
 
 @end
